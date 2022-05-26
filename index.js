@@ -16,7 +16,6 @@ passport.use(
       console.log('Access Token: ', accessToken);
       console.log('Refresh Token: ', refreshToken);
       console.log('Profile: ', profile);
-      console.log('Done:', done);
     }
   )
 );
